@@ -1,0 +1,41 @@
+_repo: La-Odisea_58221
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Flaxman, John
+    gutenberg_agent_id: '49833'
+    url: http://www.gutenberg.org/2009/agents/49833
+  - agent_name: Paget, Walter
+    aliases:
+    - Paget, Wal. (Walter)
+    - Paget, W. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+  translator:
+    agent_name: Estalella, Luis Segalá y
+    gutenberg_agent_id: '49528'
+    url: http://www.gutenberg.org/2009/agents/49528
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2018-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58221'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Odisea
+url: http://www.gutenberg.org/ebooks/58221
