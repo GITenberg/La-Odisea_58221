@@ -1,5 +1,5 @@
 _repo: La-Odisea_58221
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Flaxman, John
@@ -17,6 +17,9 @@ contributor:
     agent_name: Estalella, Luis Segalá y
     gutenberg_agent_id: '49528'
     url: http://www.gutenberg.org/2009/agents/49528
+covers:
+- cover_type: archival
+  image_path: 58221-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Homer
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/705
     wikipedia: http://en.wikipedia.org/wiki/Homer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58221#La-Odisea
 gutenberg_issued: '2018-11-02'
 gutenberg_type: Text
 identifiers:
